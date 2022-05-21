@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624564419739",
+    "project_id": "union-crypto-wallet",
+    "storage_bucket": "union-crypto-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624564419739:android:a204e259c5f313b5445a3e",
+        "android_client_info": {
+          "package_name": "com.union.cryptowallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624564419739-jeqqi3qhjiricprqvmiqtbn5dq2kpnp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOYHzHf-FIL6wW8Vmc_ADMdgn3vKIaPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624564419739-jeqqi3qhjiricprqvmiqtbn5dq2kpnp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
